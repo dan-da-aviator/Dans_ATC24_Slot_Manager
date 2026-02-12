@@ -6,11 +6,11 @@ Dan's ATC24 Software - https://discord.gg/Euf3Rq78UX <br>
 
 ## Reporting Bugs
 To report bugs you can contact me through the following methods: <br>
-Discord - @dan_da_aviator
+Discord - @dan_da_aviator <br>
 Email - dans24softwares@outlook.com
 
 ## Introduction
-As the new larger ATC24 servers are in beta, levels of traffic begin to rise on ATC24. Dan's ATC24 Slot Manger is a software designed to help tower controllers keep track of their actions and aid in departure seperation on ATC24.
+As the new larger ATC24 servers are in beta, levels of traffic begin to rise on ATC24. Dan's ATC24 Slot Manger is a software designed to help tower controllers keep track of their actions and aid in departure seperation on ATC24. 
 
 ## Main Features
 - Up to 10 slots for you to add in aircraft to the takeoff queue
